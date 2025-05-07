@@ -45,7 +45,7 @@ Evaluating individual player contributions in the Premier League is complex due 
 ---
 
 ## 📂 Dataset
-**The data used for this analysis was sourced from Kaggle and can be found [here:](https://www.kaggle.com/datasets/themlphdstudent/premier-league-player-stats-data)**  
+**The data used for this analysis was sourced from Kaggle and can be found [here](https://www.kaggle.com/datasets/themlphdstudent/premier-league-player-stats-data)**  
 ---
 ## 📄 Technical Report
 - **[View comprehensive technical Report ](https://medium.com/@ezeliorafavour/analysis-on-the-premier-league-players-performance-in-the-2019-2020-season-using-excel-e3e6515a6065)**  
